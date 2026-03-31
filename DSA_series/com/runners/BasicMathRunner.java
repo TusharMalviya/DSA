@@ -34,5 +34,8 @@ public class BasicMathRunner {
 		
 //		To check if a number is prime number or not
 		CheckForPrime.isPrime(17);
+		
+		
+		System.out.println("hello");
 	}
 }
