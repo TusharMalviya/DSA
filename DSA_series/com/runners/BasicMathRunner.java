@@ -3,6 +3,7 @@ package com.runners;
 import com.basicMath.ArmstrongNumber;
 import com.basicMath.CheckForPrime;
 import com.basicMath.CountOfDigits;
+import com.basicMath.GCDofTwoNumbers;
 import com.basicMath.PalindromeOfNumber;
 import com.basicMath.PrintAllDivisiors;
 import com.basicMath.ReverseNumber;
@@ -36,6 +37,7 @@ public class BasicMathRunner {
 		CheckForPrime.isPrime(17);
 		
 		
-		System.out.println("hello");
+//		To check for the GCD of two numbers
+		System.out.println("The GCD of 20 & 15 is: " + GCDofTwoNumbers.gcd(20, 15));
 	}
 }
