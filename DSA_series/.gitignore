@@ -1,0 +1,17 @@
+# Ignore Eclipse/STS project files
+.classpath
+.project
+.settings/
+
+# Ignore build folder
+bin/
+target/
+
+# Ignore OS files
+.DS_Store
+
+# Ignore log files
+*.log
+
+# Ignore Java compiled files
+*.class
