@@ -1,0 +1,13 @@
+Recursions topics covered
+
+1. For every function to be call recursively a BASE CASE conditions is required.
+
+2. When we don't have a base condition &
+   when we are calling a function recursively then STACK OVER FLOW / STACK SPACE condition occurs.
+   
+3. Recursion Tree:
+	f() --> f() --> f() --> f() {base condition met}
+	<-- 	<-- 	<-- 	<--return
+	
+	
+
