@@ -26,7 +26,7 @@ public class PrintNames {
 	public static void printNumbersInReverseOrder( int n) {
 		if(n<=0) return;
 		
-		System.out.print(n+", ");
+		System.out.print(n+" ");
 		printNumbersInReverseOrder(n-1);
 	}
 
